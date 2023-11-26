@@ -399,7 +399,7 @@ footer a {
 }
 
 /* SECCION RESPONSIVE */
-@media screen and (max-width:800px) {
+@media (max-width:800px) {
     .redes {
         display: none;
     }
