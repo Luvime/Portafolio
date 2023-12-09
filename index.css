@@ -282,6 +282,11 @@ html {
     text-decoration-thickness: 5px;
 }
 
+#habilidades .habilidades-foto {
+    display: flex;
+    justify-content: space-between;
+}
+
 /* SECCION PORTAFOLIO */
 #portafolio {
     max-width: 1100px;
