@@ -288,6 +288,22 @@ html {
     margin: 30px 0;
 }
 
+#habilidades .fila .habilidades-foto {
+    max-width: 450px;
+    border: 1px solid #000;
+    margin: 0 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+#habilidades .fila .habilidades-foto img {
+    width: 100%;
+    height: 100%;
+    filter: grayscale(1);
+    object-fit: cover;
+    transition: .5s;
+}
+
 /* SECCION PORTAFOLIO */
 #portafolio {
     max-width: 1100px;
