@@ -289,8 +289,6 @@ html {
 }
 
 #habilidades .habilidades-foto {
-    display: flex;
-    justify-content: space-between;
     max-width: 80px;
     margin-right: 80px;
 }
