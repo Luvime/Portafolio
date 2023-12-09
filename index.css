@@ -265,6 +265,10 @@ html {
     line-height: 22px;
 }
 
+.color1 {
+    background: linear-gradient(#038aee, #0039a9);
+}
+
 /*SECCION HABILIDADES */
 #habilidades {
     max-width: 1100px;
