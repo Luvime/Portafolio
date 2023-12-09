@@ -236,7 +236,7 @@ html {
     margin-bottom: 25px;
 }
 
-#servicios .fila .servicio .icono {
+#servicios .fila .servicio .icono1 {
     display: inline-block;
     width: 60px;
     height: 60px;
@@ -246,12 +246,23 @@ html {
     margin-bottom: 25px;
 }
 
-.color2 {
+#servicios .fila .servicio .icono2 {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
     background: linear-gradient(#ff9900, #ff5b00);
+    padding: 20px;
+    margin-bottom: 25px;
 }
-
-.color3 {
+#servicios .fila .servicio .icono3 {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
     background: linear-gradient(#04e2ee, #017795);
+    padding: 20px;
+    margin-bottom: 25px;
 }
 
 #servicios .fila .servicio hr {
