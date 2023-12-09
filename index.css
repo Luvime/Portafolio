@@ -282,7 +282,7 @@ html {
     justify-content: center;
 }
 
-.titulo-seccion {
+#habilidades .titulo-seccion {
     text-align: center;
     font-size: 22px;
     text-transform: uppercase;
