@@ -272,6 +272,16 @@ html {
     margin: auto;
 }
 
+#habilidades .titulo-seccion {
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #111135;
+    text-decoration: underline;
+    text-decoration-color: #d3d3d3;
+    text-decoration-thickness: 5px;
+}
+
 #habilidades .habilidades-foto {
     max-width: 400px;
     margin-right: 80px;
