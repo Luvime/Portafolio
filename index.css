@@ -282,24 +282,6 @@ html {
     text-decoration-thickness: 5px;
 }
 
-#habilidades .contenedor {
-    display: flex;
-    justify-content: space-between;
-    margin: 10px 0;
-}
-
-#habilidades .habilidades-foto {
-    max-width: 80px;
-    margin-right: 80px;
-}
-
-#habilidades .habilidades-foto img {
-    padding: 20px;
-    width: 100%;
-    border-radius: 20px;
-    background-color: #f3f3f3;
-}
-
 /* SECCION PORTAFOLIO */
 #portafolio {
     max-width: 1100px;
