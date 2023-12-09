@@ -21,7 +21,7 @@
    - Integración de datos JSON y diseño con HTML y CSS.
 
 ### 5. Ecommerce - [Ver Proyecto](https://luvime.github.io/proyecto-comercio-electronico/)
-   - Aplicación de tecnologías como JavaScript, React JS, React Bootstrap, MongoDB y Node JS (frontend y backend).
+   - Aplicación de tecnologías como JavaScript, React JS, Tailwind, MongoDB y Node JS (frontend y backend).
    - Integración de MercadoPago y diseño con HTML y CSS.
 
 ## Tecnologías Utilizadas
