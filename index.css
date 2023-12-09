@@ -353,6 +353,14 @@ html {
     transition: .5s;
 }
 
+#portafolio .fila .proyecto .info i {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    transition: .5s;
+}
+
 #portafolio .fila .proyecto:hover .info {
     opacity: 1;
     bottom: 0;
