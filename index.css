@@ -246,6 +246,14 @@ html {
     margin-bottom: 25px;
 }
 
+.color2 {
+    background: linear-gradient(#ff9900, #ff5b00);
+}
+
+.color3 {
+    background: linear-gradient(#04e2ee, #017795);
+}
+
 #servicios .fila .servicio hr {
     width: 30%;
     margin: auto;
@@ -263,10 +271,6 @@ html {
 #servicios .fila .servicio p {
     font-size: 14px;
     line-height: 22px;
-}
-
-.color1 {
-    background: linear-gradient(#038aee, #0039a9);
 }
 
 /*SECCION HABILIDADES */
