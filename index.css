@@ -290,11 +290,6 @@ html {
     margin: 30px 0;
 }
 
-#habilidades .fila .habilidad img {
-    width: 20px;
-    height: 20px;
-}
-
 /* SECCION PORTAFOLIO */
 #portafolio {
     max-width: 1100px;
