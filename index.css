@@ -282,7 +282,7 @@ html {
     text-decoration-thickness: 5px;
 }
 
-#habilidades .fila {
+#habilidades .contenedor {
     display: flex;
     justify-content: space-between;
     margin: 30px 0;
