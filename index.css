@@ -280,6 +280,7 @@ html {
 .container1 {
     display: flex;
     justify-content: center;
+    margin: 10px;
 }
 
 #habilidades .titulo-seccion {
