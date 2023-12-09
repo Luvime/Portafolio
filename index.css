@@ -266,25 +266,15 @@ html {
 }
 
 /*SECCION HABILIDADES */
-#habilidades {
-    padding: 100px 15px;
-    color: #111135;
-}
-
-#habilidades .fila {
-    display: flex;
-    justify-content: space-between;
-    max-width: 80px;
-    margin-right: 80px;
-}
-
-#habilidades .fila .proyecto {
-    max-width: 350px;
-    background-color: #fff;
-    padding: 30px;
+.alinear {
+    width: 80px;
+    height: 80px;
     margin: 0 5px;
-    border-radius: 5px;
-    transition: .5s;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
 }
 
 /* SECCION PORTAFOLIO */
