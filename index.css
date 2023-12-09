@@ -144,10 +144,6 @@ html {
     display: flex;
 }
 
-#sobremi .contenedor-foto {
-    max-width: 800px;
-    margin-right: 80px;
-}
 
 #sobremi .contenedor-foto img {
     padding: 10px;
