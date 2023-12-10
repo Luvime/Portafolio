@@ -5,7 +5,7 @@
 
 ### 1. Landing - [Ver Proyecto](https://luvime.github.io/proyecto-1-landing-venta/)
    - Desarrollo de una interfaz de usuario (UI) utilizando HTML y CSS.
-   - Inspirado en la marca de audio Harman Kardon.
+   - Inspirado en la camida ecuatoriana y sus regiones.
 
 ### 2. CRUD - [Ver Proyecto](https://luvime.github.io/proyecto-2-Aplicacion-CRUD/)
    - Implementación de operaciones CRUD (Crear, Leer, Actualizar, Eliminar) utilizando JavaScript.
@@ -17,7 +17,6 @@
 
 ### 4. Restaurant APP - [Ver Proyecto](https://luvime.github.io/Proyecto-4-Aplicacion-Restaurante/)
    - Utilización de JavaScript para la lógica de la aplicación.
-   - Modularización mediante componentes en ReactJS con React Bootstrap.
    - Integración de datos JSON y diseño con HTML y CSS.
 
 ### 5. Ecommerce - [Ver Proyecto](https://luvime.github.io/proyecto-comercio-electronico/)
